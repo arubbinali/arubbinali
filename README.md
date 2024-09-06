@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=00FFFF&size=18&vCenter=true&height=16&lines=Hala%2C+I'm+Arub!;No+one+gets+my+name+right+anyway+so+you+can+call+me+anything+%3A);I+write+software+%26+play+sports..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=00FFFF&size=18&vCenter=true&height=16&lines=Hala%2C+I'm+Arub!;I+write+software+%26+drink+water%2C;There's+no+place+like+127.0.0.1" alt="Typing SVG" />
 
 
 I'm a certified associate level python developer,
