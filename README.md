@@ -1,5 +1,4 @@
-
-
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=00FFFF&size=18&vCenter=true&height=16&lines=Hala%2C+I'm+Arub!;No+one+gets+my+name+right+anyway+so+you+can+call+me+anything+%3A);I+write+software+%26+play+sports..." alt="Typing SVG" />
 
 I'm a certified associate level python developer,
   I write __[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) & database softwares__, solve [__leetcode__](https://leetcode.com/u/arubbinali/) problems, take part in __[cp](https://en.wikipedia.org/wiki/Competitive_programming) contests__ and learn different __data structures and algorithms__.
