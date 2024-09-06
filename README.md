@@ -1,4 +1,5 @@
-## Hala, I'm Arub
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+lemonsaurus.;But+you+can+call+me+Lemon.;I'm+the+CTO+of+a+company+called+ion8.;I+make+stuff!;I'm+a+software+engineer,;a+musician,;and+the+proud+father+of+two+smartasses.)](https://lemonsaur.us)
+
 
 I'm a certified associate level python developer,
   I write __[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) & database softwares__, solve [__leetcode__](https://leetcode.com/u/arubbinali/) problems, take part in __[cp](https://en.wikipedia.org/wiki/Competitive_programming) contests__ and learn different __data structures and algorithms__.
