@@ -6,11 +6,11 @@ I'm a certified associate level python developer,
 I've got 3+ years on py, [PCEP](https://pythoninstitute.org/pcep) & [PCAP](https://pythoninstitute.org/pcap) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _3 main projects_;
   - a terminal based **graphical inheritance calculator** solely in [py](https://www.python.org/about/),
   - a **mathematical GUI software** using [py](https://www.python.org/about/) & [tk](https://docs.python.org/3/library/tkinter.html#),
-  - a **GUI & Database software** using [py](https://www.python.org/about/), [sql](https://www.mysql.com/), [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/) (current)
+  - a **GUI & Database software** using [py](https://www.python.org/about/), [sql](https://www.mysql.com/), [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/) (current).
 
-Python from [w3schools](https://www.w3schools.com/python/), [snakify](https://snakify.org/en/), [freecodecamp](https://youtu.be/rfscVS0vtbw?si=yi7oXvj-OEBdfKTr) and [the python institute](https://pythoninstitute.org/)/[edube](https://edube.org/)
+Python from [w3schools](https://www.w3schools.com/python/), [snakify](https://snakify.org/en/), [freecodecamp](https://youtu.be/rfscVS0vtbw?si=yi7oXvj-OEBdfKTr) and [the python institute](https://pythoninstitute.org/)/[edube](https://edube.org/).
 
 -----
 
-Also, **I teach python & help people with their bugs** _(basic to nearly advanced level)_
+Also, **I teach python & help people with their bugs** _(basic to nearly advanced level)_.
 [__Discord__](https://discord.com/): **arub**
