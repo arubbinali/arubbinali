@@ -12,6 +12,7 @@ I've got 3+ years on py, [PCEP](https://pythoninstitute.org/pcep) & [PCAP](https
 Python from [w3schools](https://www.w3schools.com/python/), [snakify](https://snakify.org/en/), [freecodecamp](https://youtu.be/rfscVS0vtbw?si=yi7oXvj-OEBdfKTr) and [the python institute](https://pythoninstitute.org/)/[edube](https://edube.org/).
 
 Learning [C](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170) & [C++](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) from [the C++ institute](https://cppinstitute.org/certification-exams)
+
 -----
 
 Also, **I teach python & help people with their bugs** _(basic to nearly advanced level)_.
