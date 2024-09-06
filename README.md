@@ -11,6 +11,7 @@ I've got 3+ years on py, [PCEP](https://pythoninstitute.org/pcep) & [PCAP](https
   - a **mathematical GUI software** using [py](https://www.python.org/about/) & [tk](https://docs.python.org/3/library/tkinter.html#),
   - a **GUI & Database software** using [py](https://www.python.org/about/), [sql](https://www.mysql.com/), [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/) (current).
 
+Some mini casual projects on [khanacademy](https://www.khanacademy.org/) in [JavaScript](https://www.javascript.com/) from when I was a kid...
 
 -----
 Learning;
