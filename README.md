@@ -20,7 +20,7 @@ Learning;
 
 -----
 
-Also, **I teach python & help people with their bugs** _(basic to nearly advanced level)_.
+Also, **I help people learn python, fix their bugs and answer their questions** _(basic to nearly advanced level)_.
 
 Contact me via mail ([__arubbinali@outlook.com__](mailto:arubbinali@outlook.com)) or [__discord__](https://discord.com/): **arub**
 
