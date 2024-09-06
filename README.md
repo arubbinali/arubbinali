@@ -7,10 +7,8 @@ I've got 3+ years on py, [PCEP](https://pythoninstitute.org/pcep) & [PCAP](https
 
 Done _3 main projects_;
   - a terminal based **graphical inheritance calculator**,
-  - a mathematical GUI software using py & tk,
-  - a GUI & Database software using py, sql, tk & ctk (current)
+  - a **mathematical GUI software** using [py](https://www.python.org/about/) & [tk](https://docs.python.org/3/library/tkinter.html#),
+  - a **GUI & Database software** using [py](https://www.python.org/about/), [sql](https://www.mysql.com/), [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/) (current)
 
 Python from [w3schools](https://www.w3schools.com/python/), [snakify](https://snakify.org/en/), [freecodecamp](https://youtu.be/rfscVS0vtbw?si=yi7oXvj-OEBdfKTr) and [the python institute](https://pythoninstitute.org/)/[edube](https://edube.org/)
-
-**arubbinali/arubbinali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
