@@ -23,8 +23,6 @@ Learning;
 -----
 
 Also, I help people **learn** python, **debug** their code, and **answer their questions** _(basic to nearly advanced level)_.
-Also, I help people <span style="color:pink;">learn</span> python, <span style="color:pink;">debug</span> their code, and <span style="color:pink;">answer their questions</span> _(basic to nearly advanced level)_.
-
 
 Contact me via mail ([__arubbinali@outlook.com__](mailto:arubbinali@outlook.com)) or [__discord__](https://discord.com/): **arub**
 
