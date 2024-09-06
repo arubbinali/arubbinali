@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+lemonsaurus.;But+you+can+call+me+Lemon.;I'm+the+CTO+of+a+company+called+ion8.;I+make+stuff!;I'm+a+software+engineer,;a+musician,;and+the+proud+father+of+two+smartasses.)](https://lemonsaur.us)
+
 
 
 I'm a certified associate level python developer,
