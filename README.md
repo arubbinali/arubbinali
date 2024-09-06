@@ -14,5 +14,5 @@ Python from [w3schools](https://www.w3schools.com/python/), [snakify](https://sn
 
 Also, **I teach python & help people with their bugs** _(basic to nearly advanced level)_.
 
-Contact me via mail ([__arubbinali@outlook.com__](mailto:arubbinali@outlook.com)) or [__Discord__](https://discord.com/): **arub**
+Contact me via mail ([__arubbinali@outlook.com__](mailto:arubbinali@outlook.com)) or [__discord__](https://discord.com/): **arub**
 
