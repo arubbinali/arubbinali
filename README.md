@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=00FFFF&size=18&vCenter=true&height=16&lines=Hala%2C+I'm+Arub!;I+write+software+%26+drink+water%2C;There's+no+place+like+127.0.0.1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=00FFFF&size=18&vCenter=true&height=16&lines=Hala%2C+I'm+Arub!;I+write+softwares+%26+drink+water%2C;There's+no+place+like+127.0.0.1" alt="Typing SVG" />
 
 Certified associate level python developer,
   I write __[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) & database softwares__, solve [__leetcode__](https://leetcode.com/u/arubbinali/) problems, take part in __[cp](https://en.wikipedia.org/wiki/Competitive_programming) contests__ and learn different __data structures and algorithms__.
