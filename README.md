@@ -14,4 +14,5 @@ Python from [w3schools](https://www.w3schools.com/python/), [snakify](https://sn
 
 -----
 
-Also, **I teach python for free** _(basic to nearly advanced level)_
+Also, **I teach python & help people with their bugs** _(basic to nearly advanced level)_
+[_Discord_](https://discord.com/): _arub_
