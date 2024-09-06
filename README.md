@@ -1,6 +1,5 @@
-## Hi there 👋
-### teigjtigj
-# igj
+## Hala, im Arub
+
 
 
 **arubbinali/arubbinali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
