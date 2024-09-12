@@ -12,7 +12,7 @@ I've got 3+ years on py, [PCEP](https://pythoninstitute.org/pcep) & [PCAP](https
 
 Just started the [CLE](https://cppinstitute.org/cle) & the [CPE](https://cppinstitute.org/cpe) certifications for C & C++
 
-A summary of my [mini projects](https://www.khanacademy.org/computer-programming/a-compilation-of-my-main-cute-programs/5392543665012736) on [khanacademy](https://www.khanacademy.org/) in JavaScript from when I was 12...
+A summary of my [mini projects](https://www.khanacademy.org/computer-programming/a-compilation-of-my-main-cute-programs/5392543665012736) on [khanacademy](https://www.khanacademy.org/) in JavaScript from when I was 12
 
 I don't do web yet but here's a cute [website](https://arubbinali.github.io/) ~~gpt made for me~~
 
