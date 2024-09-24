@@ -14,7 +14,7 @@ Just started the [CLE](https://cppinstitute.org/cle) & the [CPE](https://cppinst
 
 A summary of my [mini projects](https://www.khanacademy.org/computer-programming/a-compilation-of-my-main-cute-programs/5392543665012736) on [khanacademy](https://www.khanacademy.org/) in **JavaScript** from when I was 12
 
-I don't do web yet but here's my **mini [website](https://arubbinali.github.io/)**
+I don't do web yet but here's my mini **[website](https://arubbinali.github.io/)**
 
 -----
 Learning;
