@@ -2,16 +2,7 @@
 
 Certified associate level python developer.
   I write __[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) & database softwares__, solve [__leetcode__](https://leetcode.com/u/arubbinali/) problems, take part in __[cp](https://en.wikipedia.org/wiki/Competitive_programming) contests__ and learn different __data structures and algorithms__.
------
-<p align="center">
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_CN.md"><span>中文</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_RU.md"><span>Русский</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_AR.md"><span>عربي</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_JP.md"><span>日本語</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_PTBR.md"><span>Português</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_TR.md"><span>Türkçe</span></a>
-</p>
+
 -----
 
 I've got **3+ years on py**, [PCEP](https://pythoninstitute.org/pcep) & [PCAP](https://pythoninstitute.org/pcap) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _3 main projects_;
