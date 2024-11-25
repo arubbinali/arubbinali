@@ -27,6 +27,8 @@ Also, I help people **learn** python, **debug** their code, and **answer their q
 
 Contact me via mail ([__arubbinali@outlook.com__](mailto:arubbinali@outlook.com)) or [__discord__](https://discord.com/): **arub**
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=arub&label=Profile%20Views&color=12&icon=2&pretty=true" />
-</a>
+<div class="center-visit-counter">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=arub&label=Profile%20Views&color=12&icon=2&pretty=true" />
+  </a>
+</div>
