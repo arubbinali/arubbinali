@@ -29,6 +29,16 @@ Contact me via mail ([__arubbinali@outlook.com__](mailto:arubbinali@outlook.com)
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=arub&label=Profile%20Views&color=12&icon=2&pretty=true" />
+    <img src="https://visitcount.itsvg.in/api?id=arub&label=Profile%20Views&color=12&icon=2&pretty=true" 
+         style="transition: all 0.3s ease-in-out;" />
   </a>
 </p>
+
+<style>
+  /* Add a glowing effect on hover */
+  p a img:hover {
+    box-shadow: 0 0 15px 5px rgba(0, 255, 255, 0.8); /* glowing effect */
+    transform: scale(1.05); /* slight scale effect */
+  }
+</style>
+
