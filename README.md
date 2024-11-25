@@ -10,7 +10,6 @@ Certified associate level python developer.
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=png&color=000000"/>
 </p>
 
 <p align="center">
