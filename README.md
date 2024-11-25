@@ -14,6 +14,13 @@ Certified associate level python developer.
   <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/swift.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img width="48px" src="https://bun.sh/logo.svg"/>
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+  <img src="https://img.icons8.com/?size=48&id=NfbyHexzVEDk&format=png&color=000000"/>
+  <img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"/>
+  <img src="https://img.icons8.com/color/48/000000/ionic.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
 <p align="center">
