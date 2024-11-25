@@ -4,7 +4,23 @@ Certified associate level python developer.
   I write __[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) & database softwares__, solve [__leetcode__](https://leetcode.com/u/arubbinali/) problems, take part in __[cp](https://en.wikipedia.org/wiki/Competitive_programming) contests__ and learn different __data structures and algorithms__.
 
 -----
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=png&color=000000"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/swift.png"/>
+</p>
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=arub&label=Profile%20Views&color=12&icon=2&pretty=true" />
+  </a>
+</p>
+-----
 I've got **3+ years on py**, [PCEP](https://pythoninstitute.org/pcep) & [PCAP](https://pythoninstitute.org/pcap) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _3 main projects_;
   - a terminal based **graphical inheritance calculator** solely in [py](https://www.python.org/about/),
   - a **mathematical GUI software** using [py](https://www.python.org/about/) & [tk](https://docs.python.org/3/library/tkinter.html#),
@@ -27,18 +43,5 @@ Also, I help people **learn** python, **debug** their code, and **answer their q
 
 Contact me via mail ([__arubbinali@outlook.com__](mailto:arubbinali@outlook.com)) or [__discord__](https://discord.com/): **arub**
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=arub&label=Profile%20Views&color=12&icon=2&pretty=true" 
-         style="transition: all 0.3s ease-in-out;" />
-  </a>
-</p>
 
-<style>
-  /* Add a glowing effect on hover */
-  p a img:hover {
-    box-shadow: 0 0 15px 5px rgba(0, 255, 255, 0.8); /* glowing effect */
-    transform: scale(1.05); /* slight scale effect */
-  }
-</style>
 
