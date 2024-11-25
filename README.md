@@ -4,6 +4,7 @@ Certified associate level python developer.
   I write __[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) & database softwares__, solve [__leetcode__](https://leetcode.com/u/arubbinali/) problems, take part in __[cp](https://en.wikipedia.org/wiki/Competitive_programming) contests__ and learn different __data structures and algorithms__.
 
 -----
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
@@ -20,7 +21,9 @@ Certified associate level python developer.
     <img src="https://visitcount.itsvg.in/api?id=arub&label=Profile%20Views&color=12&icon=2&pretty=true" />
   </a>
 </p>
+
 -----
+
 I've got **3+ years on py**, [PCEP](https://pythoninstitute.org/pcep) & [PCAP](https://pythoninstitute.org/pcap) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _3 main projects_;
   - a terminal based **graphical inheritance calculator** solely in [py](https://www.python.org/about/),
   - a **mathematical GUI software** using [py](https://www.python.org/about/) & [tk](https://docs.python.org/3/library/tkinter.html#),
