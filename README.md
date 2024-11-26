@@ -11,8 +11,8 @@ Certified associate level python developer.
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/?size=100&id=uHZV38hOzCFA&format=png&color=000000" width="48"/>
-  <img src="https://banner2.cleanpng.com/20171217/033/av2bv0zlf.webp"/>
-  <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png"/>
+  <img src="C.png"/>
+  <img src="C++.png"/>
 </p>
 
 <p align="center">
