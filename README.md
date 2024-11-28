@@ -23,10 +23,12 @@ Certified associate level python developer.
 
 -----
 
-I've got **3+ years on py**, [PCEP](https://www.credly.com/badges/3c618000-5b62-40a0-96db-f98c1a3b77bd) & [PCAP](https://www.credly.com/badges/fe90d652-5440-431e-ae78-8781988a27a7) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _3 main projects_;
+I've got **3+ years on py**, [PCEP](https://www.credly.com/badges/3c618000-5b62-40a0-96db-f98c1a3b77bd) & [PCAP](https://www.credly.com/badges/fe90d652-5440-431e-ae78-8781988a27a7) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _5 main projects_;
   - a terminal based **graphical inheritance calculator** solely in [py](https://www.python.org/about/),
   - a **mathematical GUI software** using [py](https://www.python.org/about/) & [tk](https://docs.python.org/3/library/tkinter.html#),
-  - a **GUI & Database software** using [py](https://www.python.org/about/), [sql](https://www.mysql.com/), [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/) (current).
+  - a **GUI & Database software** using [py](https://www.python.org/about/), [sql](https://www.mysql.com/), [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/),
+  - a **GUI MySQL Workbench** in [py](https://www.python.org/about/), [sql](https://www.mysql.com/), [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/),
+  - my **school's main web page** in [html](https://html.com/), [css](https://css3.com/) & [js](https://www.javascript.com/)
 
 Just started the [CLE](https://cppinstitute.org/cle) & the [CPE](https://cppinstitute.org/cpe) certifications for **C & C++**
 
