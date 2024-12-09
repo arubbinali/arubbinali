@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=robot&color=00FFFF&size=18&vCenter=true&height=16&lines=Hala%2C+I'm+Arub!;I+write+softwares+%26+drink+water%2C;There's+no+place+like+127.0.0.1" alt="Typing SVG" />
 
-Certified associate level python developer.
+Certified associate level **[python developer.](https://arubbinali.github.io/)**.
   I write __[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) & database softwares__, solve [__leetcode__](https://leetcode.com/u/arubbinali/) problems, take part in __[cp](https://en.wikipedia.org/wiki/Competitive_programming) contests__ and learn different __data structures and algorithms__.
 
 -----
@@ -33,8 +33,6 @@ I've got **3+ years on py**, [PCEP](https://www.credly.com/badges/3c618000-5b62-
 Just started the [CLE](https://cppinstitute.org/cle) & the [CPE](https://cppinstitute.org/cpe) certifications for **C & C++**
 
 A summary of my [mini projects](https://www.khanacademy.org/computer-programming/a-compilation-of-my-main-cute-programs/5392543665012736) on [khanacademy](https://www.khanacademy.org/) in **JavaScript** from when I was 12
-
-I casually also do web, check out my mini **[website](https://arubbinali.github.io/)**
 
 -----
 Learning;
