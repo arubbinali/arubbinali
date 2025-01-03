@@ -15,13 +15,6 @@ Certified associate level **[python developer](https://arubbinali.github.io/)**.
   <img src="C++.png" width="48"/>
 </p>
 
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=arub&label=Profile%20Hits&color=12&icon=2&pretty=true" />
-  </a>
-</p>
-
 -----
 
 I've got **3+ years on py**, [PCEP](https://www.credly.com/badges/3c618000-5b62-40a0-96db-f98c1a3b77bd) & [PCAP](https://www.credly.com/badges/fe90d652-5440-431e-ae78-8781988a27a7) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _4 main projects_;
