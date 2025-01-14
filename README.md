@@ -29,7 +29,7 @@ A summary of my [mini projects](https://www.khanacademy.org/computer-programming
 
 -----
 Learning;
-- Python from [w3schools](https://www.w3schools.com/python/), [snakify](https://snakify.org/en/), [freecodecamp](https://youtu.be/rfscVS0vtbw?si=yi7oXvj-OEBdfKTr) and [the Python institute](https://pythoninstitute.org/)/[edube](https://edube.org/).
+- Python from [w3schools](https://www.w3schools.com/python/), [snakify](https://snakify.org/en/), [freecodecamp](https://youtu.be/rfscVS0vtbw?si=yi7oXvj-OEBdfKTr) and [the Python institute](https://pythoninstitute.org/)/[edube](https://edube.org/)
 - C & C++ from [the C++ institute](https://cppinstitute.org/certification-exams)
 
 -----
