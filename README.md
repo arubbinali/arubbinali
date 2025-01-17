@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=robot&color=00FFFF&size=18&vCenter=true&height=16&lines=Hala%2C+I'm+Arub!;I+write+softwares+%26+ball%2C;There's+no+place+like+127.0.0.1" alt="Typing SVG" />
 
-Certified associate level **[python developer](https://arubbinali.github.io/)**.
-  I write __GUI & database softwares__, build **elite websites**, take part in __cp contests__ and learn different __data structures and algorithms__.
+Certified associate level **<a href="https://arubbinali.github.io/" target="_blank">python developer</a>**.  
+I write __GUI & database softwares__, build **elite websites**, take part in __cp contests__, and learn different __data structures and algorithms__.
 
 -----
 
