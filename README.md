@@ -5,7 +5,9 @@ Certified associate level **<a href="https://arubbinali.github.io/" target="_bla
 -----
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <a href="https://www.python.org/about/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo"/>
+  </a>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
