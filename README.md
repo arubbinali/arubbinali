@@ -8,12 +8,19 @@ Certified associate level **<a href="https://arubbinali.github.io/" target="_bla
   <a href="https://www.python.org/about/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo"/>
   </a>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/?size=100&id=uHZV38hOzCFA&format=png&color=000000" width="48"/>
-  <img src="C.png" width="48"/>
-  <img src="C++.png" width="48"/>
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo"/>
+</a>
+<a href="https://html.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 Logo"/>
+</a>
+<a href="https://css3.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Logo"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.icons8.com/size=100&id=uHZV38hOzCFA&format=png&color=000000" width="48" alt="MySQL Logo"/>
+</a>
+
 </p>
 
 -----
