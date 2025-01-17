@@ -17,20 +17,16 @@ Certified associate level **<a href="https://arubbinali.github.io/" target="_bla
 -----
 
 I've got **3+ years on py**, [PCEP](https://arubbinali.github.io/Certifications.html#pcep-cert) & [PCAP](https://arubbinali.github.io/Certifications.html#pcap-cert) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _5 main projects_;
+
+  - my [**Digital Portfolio**](https://arubbinali.github.io/) showcasing all my projects mentioned below.
   - a terminal based [**Graphical Islamic Inheritance Calculator**](https://arubbinali.github.io/Projects.html#inheritance-projects) solely in [py](https://www.python.org/about/),
   - a [**Mathematical GUI Software**](https://arubbinali.github.io/Projects.html#gui-projects) using [py](https://www.python.org/about/) & [tk](https://docs.python.org/3/library/tkinter.html#),
   - a [**GUI MySQL Workbench**](https://arubbinali.github.io/Projects.html#mysql-projects) in [py](https://www.python.org/about/), [sql](https://www.mysql.com/), [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/),
-  - my [**School's Main Web Page**](https://arubbinali.github.io/Projects.html#school-projects) in [html](https://html.com/), [css](https://css3.com/) & [js](https://www.javascript.com/),
-  - my [Digital Portfolio](https://arubbinali.github.io/) showcasing all my projects mentioned above.
+  - my [**School's Main Web Page**](https://arubbinali.github.io/Projects.html#school-projects) in [html](https://html.com/), [css](https://css3.com/) & [js](https://www.javascript.com/).
 
 Just started the [CLE](https://cppinstitute.org/cle) & the [CPE](https://cppinstitute.org/cpe) certifications for **C & C++**
 
 A summary of my [mini projects](https://www.khanacademy.org/computer-programming/a-compilation-of-my-mini-js-programs-2017-2020/6623482539327488) on [khanacademy](https://www.khanacademy.org/) in **JavaScript** from when I was 12
-
------
-Learning;
-- Python from [w3schools](https://www.w3schools.com/python/), [snakify](https://snakify.org/en/), [freecodecamp](https://youtu.be/rfscVS0vtbw?si=yi7oXvj-OEBdfKTr) and [the Python institute](https://pythoninstitute.org/)/[edube](https://edube.org/)
-- C & C++ from [the C++ institute](https://cppinstitute.org/certification-exams)
 
 -----
 
