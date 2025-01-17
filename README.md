@@ -1,7 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=robot&color=00FFFF&size=18&vCenter=true&height=16&lines=Hala%2C+I'm+Arub!;I+write+softwares+%26+ball%2C;There's+no+place+like+127.0.0.1" alt="Typing SVG" />
 
-Certified associate level **<a href="https://arubbinali.github.io/" target="_blank">python developer</a>**.  
-I write __GUI & database softwares__, build **elite websites**, take part in __cp contests__, and learn different __data structures and algorithms__.
+Certified associate level **<a href="https://arubbinali.github.io/" target="_blank">python developer</a>**. I write __GUI & database softwares__, build **elite websites**, take part in __cp contests__, and learn different __data structures and algorithms__.
 
 -----
 
@@ -17,11 +16,11 @@ I write __GUI & database softwares__, build **elite websites**, take part in __c
 
 -----
 
-I've got **3+ years on py**, [PCEP](https://www.credly.com/badges/3c618000-5b62-40a0-96db-f98c1a3b77bd) & [PCAP](https://www.credly.com/badges/fe90d652-5440-431e-ae78-8781988a27a7) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _4 main projects_;
-  - a terminal based **Graphical Islamic Inheritance Calculator** solely in [py](https://www.python.org/about/),
-  - a **Mathematical GUI Software** using [py](https://www.python.org/about/) & [tk](https://docs.python.org/3/library/tkinter.html#),
-  - a **GUI MySQL Workbench** in [py](https://www.python.org/about/), [sql](https://www.mysql.com/), [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/),
-  - my **School's Main Web Page** in [html](https://html.com/), [css](https://css3.com/) & [js](https://www.javascript.com/),
+I've got **3+ years on py**, [PCEP](https://arubbinali.github.io/Certifications.html#pcep-cert) & [PCAP](https://arubbinali.github.io/Certifications.html#pcap-cert) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _5 main projects_;
+  - a terminal based [**Graphical Islamic Inheritance Calculator**](https://arubbinali.github.io/Projects.html#inheritance-projects) solely in [py](https://www.python.org/about/),
+  - a [**Mathematical GUI Software**](https://arubbinali.github.io/Projects.html#gui-projects) using [py](https://www.python.org/about/) & [tk](https://docs.python.org/3/library/tkinter.html#),
+  - a [**GUI MySQL Workbench**](https://arubbinali.github.io/Projects.html#mysql-projects) in [py](https://www.python.org/about/), [sql](https://www.mysql.com/), [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/),
+  - my [**School's Main Web Page**](https://arubbinali.github.io/Projects.html#school-projects) in [html](https://html.com/), [css](https://css3.com/) & [js](https://www.javascript.com/),
   - my [Digital Portfolio](https://arubbinali.github.io/) showcasing all my projects mentioned above.
 
 Just started the [CLE](https://cppinstitute.org/cle) & the [CPE](https://cppinstitute.org/cpe) certifications for **C & C++**
