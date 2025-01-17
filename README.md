@@ -29,9 +29,9 @@ I've got **3+ years on py**, [PCEP](https://arubbinali.github.io/Certifications.
 
   - my [**Digital Portfolio**](https://arubbinali.github.io/) showcasing all my projects mentioned below.
   - a terminal based [**Graphical Islamic Inheritance Calculator**](https://arubbinali.github.io/Projects.html#inheritance-projects) solely in [py](https://www.python.org/about/),
-  - a [**Mathematical GUI Software**](https://arubbinali.github.io/Projects.html#gui-projects) using [py](https://www.python.org/about/) & [tk](https://docs.python.org/3/library/tkinter.html#),
-  - a [**GUI MySQL Workbench**](https://arubbinali.github.io/Projects.html#mysql-projects) in [py](https://www.python.org/about/), [sql](https://www.mysql.com/), [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/),
-  - my [**School's Main Web Page**](https://arubbinali.github.io/Projects.html#school-projects) in [html](https://html.com/), [css](https://css3.com/) & [js](https://www.javascript.com/).
+  - a [**Mathematical GUI Software**](https://arubbinali.github.io/Projects.html#gui-projects) using py & [tk](https://docs.python.org/3/library/tkinter.html#),
+  - a [**GUI MySQL Workbench**](https://arubbinali.github.io/Projects.html#mysql-projects) in py, sql, [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/),
+  - my [**School's Main Web Page**](https://arubbinali.github.io/Projects.html#school-projects) in html, css & js.
 
 Just started the [CLE](https://cppinstitute.org/cle) & the [CPE](https://cppinstitute.org/cpe) certifications for **C & C++**
 
