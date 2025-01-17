@@ -28,7 +28,7 @@ Certified associate level **<a href="https://arubbinali.github.io/" target="_bla
 I've got **3+ years on py**, [PCEP](https://arubbinali.github.io/Certifications.html#pcep-cert) & [PCAP](https://arubbinali.github.io/Certifications.html#pcap-cert) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _5 main projects_;
 
   - my [**Digital Portfolio**](https://arubbinali.github.io/) showcasing all my projects mentioned below.
-  - a terminal based [**Graphical Islamic Inheritance Calculator**](https://arubbinali.github.io/Projects.html#inheritance-projects) solely in [py](https://www.python.org/about/),
+  - a terminal based [**Graphical Islamic Inheritance Calculator**](https://arubbinali.github.io/Projects.html#inheritance-projects) solely in py,
   - a [**Mathematical GUI Software**](https://arubbinali.github.io/Projects.html#gui-projects) using py & [tk](https://docs.python.org/3/library/tkinter.html#),
   - a [**GUI MySQL Workbench**](https://arubbinali.github.io/Projects.html#mysql-projects) in py, sql, [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/),
   - my [**School's Main Web Page**](https://arubbinali.github.io/Projects.html#school-projects) in html, css & js.
