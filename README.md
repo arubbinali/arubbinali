@@ -29,13 +29,13 @@ I've got **3+ years on py**, [PCEP](https://arubbinali.github.io/Certifications.
 
   - my [**Digital Portfolio**](https://arubbinali.github.io/) showcasing all my projects mentioned below.
   - a terminal based [**Graphical Islamic Inheritance Calculator**](https://arubbinali.github.io/Projects.html#inheritance-projects) solely in py,
-  - a [**Mathematical GUI Software**](https://arubbinali.github.io/Projects.html#gui-projects) using py & [tk](https://docs.python.org/3/library/tkinter.html#),
-  - a [**GUI MySQL Workbench**](https://arubbinali.github.io/Projects.html#mysql-projects) in py, sql, [tk](https://docs.python.org/3/library/tkinter.html#) & [ctk](https://customtkinter.tomschimansky.com/),
+  - a [**Mathematical GUI Software**](https://arubbinali.github.io/Projects.html#gui-projects) using py & tk,
+  - a [**GUI MySQL Workbench**](https://arubbinali.github.io/Projects.html#mysql-projects) in py, sql, tk & ctk,
   - my [**School's Main Web Page**](https://arubbinali.github.io/Projects.html#school-projects) in html, css & js.
 
 Just started the [CLE](https://cppinstitute.org/cle) & the [CPE](https://cppinstitute.org/cpe) certifications for **C & C++**
 
-A summary of my [mini projects](https://www.khanacademy.org/computer-programming/a-compilation-of-my-mini-js-programs-2017-2020/6623482539327488) on [khanacademy](https://www.khanacademy.org/) in **JavaScript** from when I was 12
+A summary of my [mini projects](https://www.khanacademy.org/computer-programming/a-compilation-of-my-mini-js-programs-2017-2020/6623482539327488) on khanacademy in **JavaScript** from when I was 12
 
 -----
 
