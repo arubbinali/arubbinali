@@ -41,7 +41,7 @@ A summary of my [mini projects](https://www.khanacademy.org/computer-programming
 
 Also, I help people **learn** python, **debug** their code, and **answer their questions** _(basic to nearly advanced level)_.
 
-Contact me via mail ([__arubbinali@outlook.com__](mailto:arubbinali@outlook.com)) or [__discord__](https://discord.com/): **arub**
+Contact me via mail ([__arubbinali@outlook.com__](mailto:arubbinali@outlook.com)) or __discord__: **arub**
 
 _[My Website](https://arubbinali.github.io/)_
 
