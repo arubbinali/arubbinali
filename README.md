@@ -16,9 +16,13 @@ Certified associate level **<a href="https://arubbinali.github.io/" target="_bla
 <a href="https://css3.com/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Logo"/>
 </a>
+<a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="42" alt="C Logo"/>
+</a>
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://camo.githubusercontent.com/ed8242af98b0e9327130f688dc9810c755b4e19d3fb00e53dc4a02de225c949e/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d75485a563338684f7a43464126666f726d61743d706e6726636f6c6f723d303030303030" width="48" alt="MySQL Logo"/>
 </a>
+
 
 
 </p>
