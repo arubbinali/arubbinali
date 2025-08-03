@@ -37,7 +37,7 @@ I've got **3+ years on py**, [PCEP](https://arubbinali.github.io/Certifications.
   - a [**Mathematical GUI Software**](https://arubbinali.github.io/Projects.html#gui-projects) using py & tk,
   - a [**GUI MySQL Workbench**](https://arubbinali.github.io/Projects.html#mysql-projects) in py, sql, tk & ctk.
 
-Recently started the [CLE](https://cppinstitute.org/cle) & the [CPE](https://cppinstitute.org/cpe) certifications for **C & C++**
+Recently started the [IBM AI Developer](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai) Certification
 
 A summary of my [mini projects](https://www.khanacademy.org/computer-programming/a-compilation-of-my-mini-js-programs-2017-2020/6623482539327488) on khanacademy in **JavaScript** from when I was 12
 
