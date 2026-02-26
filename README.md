@@ -11,23 +11,12 @@
   
 I write __GUI & database softwares__, build **elite websites** and learn different __data structures and algorithms__.
 
------
 
-I've got **3+ years on Python**, [PCEP](https://arubbinali.github.io/Certifications.html#pcep-cert) & [PCAP](https://arubbinali.github.io/Certifications.html#pcap-cert) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _5 main projects_:
-
-  - my [**Digital Portfolio**](https://arubbinali.github.io/) showcasing all my projects mentioned below.
-  - my [**School's Main Web Page**](https://arubbinali.github.io/Projects.html#school-projects) in HTML, CSS & JS
-  - a terminal-based [**Graphical Islamic Inheritance Calculator**](https://arubbinali.github.io/Projects.html#inheritance-projects) solely in Python
-  - a [**Mathematical GUI Software**](https://arubbinali.github.io/Projects.html#gui-projects) using Python & Tkinter
-  - a [**GUI MySQL Workbench**](https://arubbinali.github.io/Projects.html#mysql-projects) in Python, SQL, Tkinter & CTk
-
-Recently started the [IBM AI Developer](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai) Certification.
+I've got **5+ years on Python**, [IBM AI Developer](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai), [PCEP](https://arubbinali.github.io/Certifications.html#pcep-cert) & [PCAP](https://arubbinali.github.io/Certifications.html#pcap-cert) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _5 main projects_.
 
 A summary of my [mini projects](https://www.khanacademy.org/computer-programming/a-compilation-of-my-mini-js-programs-2017-2020/6623482539327488) on Khan Academy in **JavaScript** from when I was 12.
 
 -----
-
-Also, I help people **learn** Python, **debug** their code, and **answer their questions** _(basic to nearly advanced level)_.
 
 Contact me via mail ([__arubbinali@outlook.com__](mailto:arubbinali@outlook.com)) or __Discord__: **arub**
 
