@@ -3,7 +3,7 @@
 
 <!-- Banner with typing effect -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=1800&pause=300&color=2563EB&width=500&lines=Hala%2C+I'm+Arub.;I+build+clean+software.;Python+%7C+AI+%7C+Systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=1800&pause=300&color=2563EB&width=500&lines=I'm+Arub.;I+build+clean+software.;Python+%7C+AI+%7C+Systems." />
 </p>
 
 <!-- Main content styled with Montserrat -->
