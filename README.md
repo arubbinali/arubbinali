@@ -12,13 +12,11 @@
 I write __GUI & database softwares__, build **elite websites** and learn different __data structures and algorithms__.
 
 
-I've got **5+ years on Python**, [IBM AI Developer](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai), [PCEP](https://arubbinali.github.io/Certifications.html#pcep-cert) & [PCAP](https://arubbinali.github.io/Certifications.html#pcap-cert) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done _5 main projects_.
+I've got **5+ years on Python**, [IBM AI Developer](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai), [PCEP](https://arubbinali.github.io/Certifications.html#pcep-cert) & [PCAP](https://arubbinali.github.io/Certifications.html#pcap-cert) certified, currently doing the [PCPP1](https://pythoninstitute.org/pcpp1) and done 5 main [projects](https://arubbinali.github.io/d/Projects.html).
 
 A summary of my [mini projects](https://www.khanacademy.org/computer-programming/a-compilation-of-my-mini-js-programs-2017-2020/6623482539327488) on Khan Academy in **JavaScript** from when I was 12.
 
 -----
-
-Contact me via mail ([__arubbinali@outlook.com__](mailto:arubbinali@outlook.com)) or __Discord__: **arub**
 
 _[My Website](https://arubbinali.github.io/)_
 
