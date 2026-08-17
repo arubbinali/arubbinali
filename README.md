@@ -15,5 +15,5 @@ A compilation of my [mini projects](https://www.khanacademy.org/computer-program
 
 -----
 
-You can find my works on my _[website](https://arubbinali.github.io/)_
+You can find my works on my _[website](https://doaor.com/)_
 </div>
